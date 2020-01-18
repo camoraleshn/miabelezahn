@@ -1,0 +1,1 @@
+<div class="logo"> <a href="{{ route('home') }}"><img src="{{ asset('media/images/global/miabeleza.png') }}" alt="" ></a> </div>
