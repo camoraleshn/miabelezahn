@@ -5,8 +5,10 @@
 @section('content')
 
 	
+  <?php /* ?>
 	<!-- Slid Sec -->
   @component('parts.frontend.home-slider')@endcomponent
+  <?php */ ?>
   
   <!-- Content -->
   <div id="content"> 

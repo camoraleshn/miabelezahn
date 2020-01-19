@@ -26,6 +26,6 @@
 			<span class="margin-left-10">5 Review(s)</span>
 		</p>-->
 		<div class="price">L. {{ number_format($object->price) }} </div>
-		<a href="#." data-id="{{ $object->id }}" class="cart-btn add-to-cart"><i class="icon-basket-loaded"></i></a> 
+		<a href="#." data-id="{{ $object->id }}" data-toggle="modal" data-target="#exampleModal" class="cart-btn add-to-cart"><i class="icon-basket-loaded"></i></a> 
 	</article>
 </div>

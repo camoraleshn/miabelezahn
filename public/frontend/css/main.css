@@ -2904,6 +2904,7 @@ header {
 	padding-bottom: 0px;
 	position: relative;
 	/*background: #393e46;*/
+	background: #546A7B;
 }
 header .logo {
 	float: left;
@@ -3337,7 +3338,8 @@ header nav {
 	border-bottom: 1px solid #eee!important;
 }
 .light-gry-bg {
-	background: #f8f8f8;
+	/*background: #f8f8f8;*/
+	background-color: #f0f2f3; 
 }
 .cart-pop {
 	min-width: 190px;

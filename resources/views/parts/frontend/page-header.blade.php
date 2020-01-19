@@ -1,11 +1,16 @@
 <!doctype html>
+<html lang="es">
+<?php /* ?>
 <html class="no-js" lang="en">
+<?php */ ?>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="author" content="M_Adnan" />
+<meta name="author" content="Websites Inc." />
 <!-- Document Title -->
 <title>Mia Beleza - ECommerce</title>
+<meta name="keyword" content="Honduras,Tegucigalpa,San Pedro Sula,comercio,emprendedor,emprendedores,precios,marcas,ecommerce,perfumes,relojes,accesorios,hombres,mujeres">
+<meta name="description" content="Este sitio web esta orientado a la ventas en linea en Honduras. Puedes buscar tus productos favoritos o regalos para esa persona especial, encuentra tus productos en miabelezahn.com">
 
 <!-- Favicon -->
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">

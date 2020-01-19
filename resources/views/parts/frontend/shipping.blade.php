@@ -14,7 +14,7 @@
             <div class="media-left"> <i class="flaticon-operator"></i> </div>
             <div class="media-body">
               <h5>Soporte 24/7</h5>
-              <span>Tel: (+504) 1234 5678</span></div>
+              <span>Tel: (+504) 3182-0911</span></div>
           </li>
           <!-- Safe Payment -->
           <li>

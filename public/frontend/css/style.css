@@ -3890,7 +3890,7 @@ section {
 
 	font-size: 18px;
 
-	color: #333333;
+	color: #d1d1d1;
 
 }
 
@@ -5988,7 +5988,7 @@ footer {
 
 	padding-bottom: 50px;
 
-	background: #fff;
+	background: #252422;
 
 	position: relative;
 
@@ -5996,13 +5996,16 @@ footer {
 
 footer h4 {
 
-	font-size: 20px;
+	font-size: 16px;
 
 	margin: 0px;
 
 	margin-bottom: 20px;
 
 	font-weight: 500;
+	color: #484947;
+	text-transform: uppercase;
+
 
 }
 
@@ -6014,7 +6017,7 @@ footer p {
 
 .foot-link {
 
-	border-bottom: 1px solid #e5e5e5;
+	border-bottom: 1px solid #484947;
 
 	margin-bottom: 60px;
 
@@ -6208,7 +6211,7 @@ footer .social p a {
 
 .rights {
 
-	background: #f7f7f7;
+	background: #302F2C;
 
 	padding: 20px 0;
 
@@ -6223,6 +6226,8 @@ footer .social p a {
 	font-size: 14px;
 
 	margin-top: 8px;
+
+	color: #d1d1d1;
 
 }
 

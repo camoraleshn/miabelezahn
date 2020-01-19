@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-6">
-          <p>Derechos Reservados © 2019 <a href="#." class="ri-li"> M&G </a></p>
+          <p>Derechos Reservados © 2019 <a href="#." class="ri-li"> miabelezahn.com </a></p>
         </div>
         <div class="col-sm-6 text-right"> <img src="images/card-icon.png" alt=""> </div>
       </div>

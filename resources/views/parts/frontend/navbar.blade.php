@@ -44,7 +44,7 @@
                     <div class="col-sm-3">
                       <h6>Hombre</h6>
                       <ul>
-                        <li><a href="#."> Cell Phones & Accessories </a></li>
+                        <!--<li><a href="#."> Cell Phones & Accessories </a></li>
                         <li><a href="#."> Carrier Phones </a></li>
                         <li><a href="#."> Unlocked Phones </a></li>
                         <li><a href="#."> Prime Exclusive Phones </a></li>
@@ -52,20 +52,20 @@
                         <li><a href="#."> Cases </a></li>
                         <li><a href="#."> Best Sellers </a></li>
                         <li><a href="#."> Deals </a></li>
-                        <li><a href="#."> All Electronics </a></li>
+                        <li><a href="#."> All Electronics </a></li>-->
                       </ul>
                     </div>
                     <div class="col-sm-3">
                       <h6>Mujer</h6>
                       <ul>
-                        <li><a href="#."> Computers & Tablets</a></li>
+                        <!--<li><a href="#."> Computers & Tablets</a></li>
                         <li><a href="#."> Monitors</a></li>
                         <li><a href="#."> Laptops & tablets</a></li>
                         <li><a href="#."> Networking</a></li>
                         <li><a href="#."> Drives & Storage</a></li>
                         <li><a href="#."> Computer Parts & Components</a></li>
                         <li><a href="#."> Printers & Ink</a></li>
-                        <li><a href="#."> Office & School Supplies </a></li>
+                        <li><a href="#."> Office & School Supplies </a></li>-->
                       </ul>
                     </div>
                     <div class="col-sm-4"> <img class=" nav-img" src="images/navi-img.png" alt="" > </div>
@@ -81,7 +81,7 @@
                     <div class="col-sm-3">
                       <h6>Hombre</h6>
                       <ul>
-                        <li><a href="#."> Cell Phones & Accessories </a></li>
+                        <!--<li><a href="#."> Cell Phones & Accessories </a></li>
                         <li><a href="#."> Carrier Phones </a></li>
                         <li><a href="#."> Unlocked Phones </a></li>
                         <li><a href="#."> Prime Exclusive Phones </a></li>
@@ -89,20 +89,20 @@
                         <li><a href="#."> Cases </a></li>
                         <li><a href="#."> Best Sellers </a></li>
                         <li><a href="#."> Deals </a></li>
-                        <li><a href="#."> All Electronics </a></li>
+                        <li><a href="#."> All Electronics </a></li>-->
                       </ul>
                     </div>
                     <div class="col-sm-3">
                       <h6>Mujer</h6>
                       <ul>
-                        <li><a href="#."> Computers & Tablets</a></li>
+                        <!--<li><a href="#."> Computers & Tablets</a></li>
                         <li><a href="#."> Monitors</a></li>
                         <li><a href="#."> Laptops & tablets</a></li>
                         <li><a href="#."> Networking</a></li>
                         <li><a href="#."> Drives & Storage</a></li>
                         <li><a href="#."> Computer Parts & Components</a></li>
                         <li><a href="#."> Printers & Ink</a></li>
-                        <li><a href="#."> Office & School Supplies </a></li>
+                        <li><a href="#."> Office & School Supplies </a></li>-->
                       </ul>
                     </div>
                     <div class="col-sm-4"> <img class=" nav-img" src="images/navi-img.png" alt="" > </div>
