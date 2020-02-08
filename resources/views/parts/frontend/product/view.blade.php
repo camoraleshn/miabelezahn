@@ -25,7 +25,10 @@
 			<i class="fa fa-star-o"></i> 
 			<span class="margin-left-10">5 Review(s)</span>
 		</p>-->
-		<div class="price">L. {{ number_format($object->price) }} </div>
-		<a href="#." data-id="{{ $object->id }}" data-toggle="modal" data-target="#exampleModal" class="cart-btn add-to-cart"><i class="icon-basket-loaded"></i></a> 
+		<div class="price">
+			<!--L. {{ number_format($object->price) }} -->
+			<i class="fa fa-question"></i> CONSULTAR
+		</div>
+		<a href="javascript:void(0);" data-id="{{ $object->id }}" class="cart-btn add-to-cart"><i class="icon-basket-loaded"></i></a> 
 	</article>
 </div>

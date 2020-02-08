@@ -107,50 +107,7 @@
               <a href="#." class="cart-btn"><i class="icon-basket-loaded"></i></a> </article>
           </div>
           
-          <!-- Product -->
-          <div class="product">
-            <article> <img class="img-responsive" src="images/item-img-1-7.jpg" alt="" > 
-              <!-- Content --> 
-              <span class="tag">Appliances</span> <a href="#." class="tittle">Reloj Inteligente Smart Watch M26 Touch Bluetooh </a> 
-              <!-- Reviews -->
-              <p class="rev"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <span class="margin-left-10">5 Review(s)</span></p>
-              <div class="price">$350.00</div>
-              <a href="#." class="cart-btn"><i class="icon-basket-loaded"></i></a> </article>
-          </div>
           
-          <!-- Product -->
-          <div class="product">
-            <article> <img class="img-responsive" src="images/item-img-1-8.jpg" alt="" > <span class="new-tag">New</span> 
-              
-              <!-- Content --> 
-              <span class="tag">Accessories</span> <a href="#." class="tittle">Teclado Inalambrico Bluetooth Con Air Mouse</a> 
-              <!-- Reviews -->
-              <p class="rev"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <span class="margin-left-10">5 Review(s)</span></p>
-              <div class="price">$350.00</div>
-              <a href="#." class="cart-btn"><i class="icon-basket-loaded"></i></a> </article>
-          </div>
-          
-          <!-- Product -->
-          <div class="product">
-            <article> <img class="img-responsive" src="images/item-img-1-9.jpg" alt="" > 
-              <!-- Content --> 
-              <span class="tag">Appliances</span> <a href="#." class="tittle">Funda Para Ebook 7" 128GB full HD</a> 
-              <!-- Reviews -->
-              <p class="rev"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <span class="margin-left-10">5 Review(s)</span></p>
-              <div class="price">$350.00</div>
-              <a href="#." class="cart-btn"><i class="icon-basket-loaded"></i></a> </article>
-          </div>
-          
-          <!-- Product -->
-          <div class="product">
-            <article> <img class="img-responsive" src="images/item-img-1-10.jpg" alt="" > 
-              <!-- Content --> 
-              <span class="tag">Appliances</span> <a href="#." class="tittle">Reloj Inteligente Smart Watch M26 Touch Bluetooh </a> 
-              <!-- Reviews -->
-              <p class="rev"><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <span class="margin-left-10">5 Review(s)</span></p>
-              <div class="price">$350.00</div>
-              <a href="#." class="cart-btn"><i class="icon-basket-loaded"></i></a> </article>
-          </div>
           
         </div>
       </div>

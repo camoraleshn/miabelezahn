@@ -68,7 +68,9 @@
                         <li><a href="#."> Office & School Supplies </a></li>-->
                       </ul>
                     </div>
-                    <div class="col-sm-4"> <img class=" nav-img" src="images/navi-img.png" alt="" > </div>
+                    <div class="col-sm-4"> 
+                      <!--<img class=" nav-img" src="images/navi-img.png" alt="" > -->
+                    </div>
                   </div>
                 </div>
               </div>
@@ -105,7 +107,35 @@
                         <li><a href="#."> Office & School Supplies </a></li>-->
                       </ul>
                     </div>
-                    <div class="col-sm-4"> <img class=" nav-img" src="images/navi-img.png" alt="" > </div>
+                    <div class="col-sm-4"> 
+                      <!--<img class=" nav-img" src="images/navi-img.png" alt="" > -->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="dropdown megamenu"> <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Accesorios </a>
+              <div class="dropdown-menu animated-2s fadeInUpHalf">
+                <div class="mega-inside">
+                  <div class="row">
+                    <div class="col-sm-3">
+                      <h6>Hombre</h6>
+                      <ul>
+                        <li><a href="#."> Lentes </a></li>
+                        <li><a href="#."> Billeteras </a></li>
+                      </ul>
+                    </div>
+                    <div class="col-sm-3">
+                      <h6>Mujer</h6>
+                      <ul>
+                        <li><a href="#."> Aretes</a></li>
+                        <li><a href="#."> Pulseras</a></li>
+                        <li><a href="#."> Fajas </a></li>
+                      </ul>
+                    </div>
+                    <div class="col-sm-4"> 
+                      <!--<img class=" nav-img" src="images/navi-img.png" alt="" > -->
+                    </div>
                   </div>
                 </div>
               </div>

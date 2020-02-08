@@ -11,7 +11,7 @@
 <script type="text/javascript" src="{{ asset('frontend/rs-plugin/js/jquery.tp.min.js') }}"></script> 
 <script src="{{ asset('frontend/js/main.js') }}"></script>
 <script>
-	var urlAddToCart = '{{ route('addtocart') }}';
+	var urlAddToCart = '{{ route('pushtocart') }}';
 	var urlGetCart = '{{ route('getcart') }}';
 </script>
 <script src="{{ asset('frontend/js/cart.js') }}"></script>

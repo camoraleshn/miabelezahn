@@ -2904,7 +2904,7 @@ header {
 	padding-bottom: 0px;
 	position: relative;
 	/*background: #393e46;*/
-	background: #546A7B;
+	background: #e94d1c;
 }
 header .logo {
 	float: left;
@@ -3172,7 +3172,8 @@ header .navbar li a:before {
 	height: 100%;
 	width: 0px;
 	z-index: -1;
-	background: #0077b2;
+	/* background: #0077b2; */
+	background: #e94d1c;
 	content: "";
 	-webkit-transition: 0.2s ease-in-out;
 	-moz-transition: 0.2s ease-in-out;

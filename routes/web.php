@@ -22,7 +22,8 @@ Route::get('/product/{product}', 'ProductController@view')->name('product.view')
 Route::post('/product/search', 'ProductController@search')->name('product.search');
 Route::get('/product/{brand}', 'ProductController@brand')->name('product.brand');
 Route::get('/cart/show', 'CartController@show')->name('cart.show');
-Route::post('/cart/addtocart', 'CartController@addtocart')->name('addtocart');
+Route::get('/cart/addtocart/{slug}', 'CartController@addtocart')->name('addtocart');
+Route::post('/cart/pushtocart', 'CartController@pushtocart')->name('pushtocart');
 Route::get('/cart/getcart', 'CartController@getCart')->name('getcart');
 Route::get('/checkout', 'CheckoutController@checkout')->name('checkout');
 
